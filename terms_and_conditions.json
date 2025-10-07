@@ -1,0 +1,37 @@
+[
+  {
+    "section_title": "General Access",
+    "sections": [
+      {
+        "title": "Introduction",
+        "content":
+            "This website is owned and operated by Qatar General Electricity & Water Corporation (\"KAHRAMAA\"). Your access to this website is subject to these terms and conditions and any notices, disclaimers or conditions contained in different sections of the website. By using this website you agree to be subject to these terms of access and indemnify KAHRAMAA from and against all liabilities resulting from your failure to observe these terms."
+      },
+      {
+        "title": "Legal Authorities",
+        "content":
+            "These terms of access are governed by the laws in force in the state of Qatar and you submit to the exclusive jurisdiction of the courts of Qatar in determining any dispute concerning these terms of access or your access to this website."
+      },
+      {
+        "title": "Modifications of Terms",
+        "content":
+            "KAHRAMAA may modify at any time these terms of access and you agree to continue to be bound by the amended terms by continuing to use the website. KAHRAMAA will give you notice of these changes by publishing revised terms of access on the website but KAHRAMAA will not separately notify you of the changes that have been made."
+      }
+    ]
+  },
+  {
+    "section_title": "User Responsibilities",
+    "sections": [
+      {
+        "title": "Acceptable Use",
+        "content":
+            "Users must not use this website for any unlawful purpose or in any way that could damage, disable, overburden, or impair the website."
+      },
+      {
+        "title": "Account Security",
+        "content":
+            "You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account."
+      }
+    ]
+  }
+]
