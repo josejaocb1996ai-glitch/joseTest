@@ -169,8 +169,8 @@
           "show_new_banner": false
         },
         {
-          "image_url": "https://raw.githubusercontent.com/josejaocb1996ai-glitch/joseTest/refs/heads/main/services_icons/icon_bill_payment.svg",
-          "en_title": "icon_sales_marketing",
+          "image_url": "https://raw.githubusercontent.com/josejaocb1996ai-glitch/joseTest/refs/heads/main/services_icons/icon_sales_marketing.svg",
+          "en_title": "Sales & Marketing",
           "ar_title": "المبيعات والتسويق",
           "nav_link": "/sales_marketing",
           "show_new_banner": false
