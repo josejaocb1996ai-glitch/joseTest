@@ -1,180 +1,180 @@
 {
-	"show_rating_banner": true,
-	"services_list": [
-		{
-			"order_id": 1,
-			"en_title": "Billing and Payment",
-			"ar_title": "Billing and Payment",
-			"items": [
-				{
-					"image_url": "https://example.com/images/bill_payment.png",
-					"en_title": "Bill Payment",
-					"ar_title": "دفع الفاتورة",
-					"nav_link": "/bill_payment",
-					"show_new_banner": false
-				},
-				{
-					"image_url": "https://example.com/images/pay_for_others.png",
-					"en_title": "Pay For Others",
-					"ar_title": "الدفع للآخرين",
-					"nav_link": "/pay_for_others",
-					"show_new_banner": false
-				},
-				{
-					"image_url": "https://example.com/images/payment_declaration.png",
-					"en_title": "Payment Declaration",
-					"ar_title": "إقرار الدفع",
-					"nav_link": "/payment_declaration",
-					"show_new_banner": false
-				}
-			]
-		},
-		{
-			"order_id": 2,
-			"en_title": "Consumption & Plan Change",
-			"ar_title": "Consumption & Plan Change",
-			"items": [
-				{
-					"image_url": "https://example.com/images/consumption_history.png",
-					"en_title": "Consumption History",
-					"ar_title": "سجل الاستهلاك",
-					"nav_link": "/consumption_history",
-					"show_new_banner": false
-				},
-				{
-					"image_url": "https://example.com/images/prepaid_to_postpaid.png",
-					"en_title": "Prepaid to Postpaid",
-					"ar_title": "من مسبق الدفع إلى آجل الدفع",
-					"nav_link": "/prepaid_to_postpaid",
-					"show_new_banner": true
-				},
-				{
-					"image_url": "https://example.com/images/postpaid_to_prepaid.png",
-					"en_title": "Postpaid to Prepaid",
-					"ar_title": "من آجل الدفع إلى مسبق الدفع",
-					"nav_link": "/postpaid_to_prepaid",
-					"show_new_banner": true
-				}
-			]
-		},
-		{
-			"order_id": 3,
-			"en_title": "Premise Management",
-			"ar_title": "Premise Management",
-			"items": [
-				{
-					"image_url": "https://example.com/images/my_premises.png",
-					"en_title": "My Premises",
-					"ar_title": "عقاراتي",
-					"nav_link": "/my_premises",
-					"show_new_banner": false
-				},
-				{
-					"image_url": "https://example.com/images/move_in.png",
-					"en_title": "Move In",
-					"ar_title": "انتقال إلى العقار",
-					"nav_link": "/move_in",
-					"show_new_banner": false
-				},
-				{
-					"image_url": "https://example.com/images/move_out.png",
-					"en_title": "Move Out",
-					"ar_title": "الخروج من العقار",
-					"nav_link": "/move_out",
-					"show_new_banner": false
-				},
-				{
-					"image_url": "https://example.com/images/change_premise_type.png",
-					"en_title": "Change Premise Type",
-					"ar_title": "تغيير نوع العقار",
-					"nav_link": "/change_premise_type",
-					"show_new_banner": false
-				},
-				{
-					"image_url": "https://example.com/images/ownership_change.png",
-					"en_title": "Ownership Change",
-					"ar_title": "تغيير الملكية",
-					"nav_link": "/ownership_change",
-					"show_new_banner": false
-				}
-			]
-		},
-		{
-			"order_id": 4,
-			"en_title": "Request & Other Services",
-			"ar_title": "Request & Other Services",
-			"items": [
-				{
-					"image_url": "https://example.com/images/request_refund.png",
-					"en_title": "Request Refund",
-					"ar_title": "طلب استرداد",
-					"nav_link": "/request_refund",
-					"show_new_banner": false
-				},
-				{
-					"image_url": "https://example.com/images/service_tracking.png",
-					"en_title": "Service Tracking",
-					"ar_title": "تتبع الخدمة",
-					"nav_link": "/service_tracking",
-					"show_new_banner": false
-				},
-				{
-					"image_url": "https://example.com/images/service_removal.png",
-					"en_title": "Service Removal",
-					"ar_title": "إزالة الخدمة",
-					"nav_link": "/service_removal",
-					"show_new_banner": false
-				},
-				{
-					"image_url": "https://example.com/images/certificate_request.png",
-					"en_title": "Certificate Request",
-					"ar_title": "طلب شهادة",
-					"nav_link": "/certificate_request",
-					"show_new_banner": false
-				},
-				{
-					"image_url": "https://example.com/images/complaints.png",
-					"en_title": "Complaints",
-					"ar_title": "الشكاوى",
-					"nav_link": "/complaints",
-					"show_new_banner": false
-				},
-				{
-					"image_url": "https://example.com/images/life_support.png",
-					"en_title": "Life Support",
-					"ar_title": "دعم الحياة",
-					"nav_link": "/life_support",
-					"show_new_banner": false
-				},
-				{
-					"image_url": "https://example.com/images/enable_water_connection.png",
-					"en_title": "Enable Water Connection",
-					"ar_title": "تفعيل توصيل المياه",
-					"nav_link": "/enable_water_connection",
-					"show_new_banner": false
-				},
-				{
-					"image_url": "https://example.com/images/meter_reading.png",
-					"en_title": "Meter Reading",
-					"ar_title": "قراءة العداد",
-					"nav_link": "/meter_reading",
-					"show_new_banner": false
-				},
-				{
-					"image_url": "https://example.com/images/owner_exemption.png",
-					"en_title": "Owner Exemption",
-					"ar_title": "إعفاء المالك",
-					"nav_link": "/owner_exemption",
-					"show_new_banner": false
-				},
-				{
-					"image_url": "https://example.com/images/sales_marketing.png",
-					"en_title": "Sales & Marketing",
-					"ar_title": "المبيعات والتسويق",
-					"nav_link": "/sales_marketing",
-					"show_new_banner": false
-				}
-			]
-		}
-	]
+  "show_rating_banner": true,
+  "services_list": [
+    {
+      "order_id": 1,
+      "en_title": "Billing and Payment",
+      "ar_title": "Billing and Payment",
+      "items": [
+        {
+          "image_url": "https://example.com/images/bill_payment.png",
+          "en_title": "Bill Payment",
+          "ar_title": "دفع الفاتورة",
+          "nav_link": "/bill_payment",
+          "show_new_banner": false
+        },
+        {
+          "image_url": "https://example.com/images/pay_for_others.png",
+          "en_title": "Pay For Others",
+          "ar_title": "الدفع للآخرين",
+          "nav_link": "/pay_for_others",
+          "show_new_banner": false
+        },
+        {
+          "image_url": "https://example.com/images/payment_declaration.png",
+          "en_title": "Payment Declaration",
+          "ar_title": "إقرار الدفع",
+          "nav_link": "/payment_declaration",
+          "show_new_banner": false
+        }
+      ]
+    },
+    {
+      "order_id": 2,
+      "en_title": "Consumption & Plan Change",
+      "ar_title": "Consumption & Plan Change",
+      "items": [
+        {
+          "image_url": "https://example.com/images/consumption_history.png",
+          "en_title": "Consumption History",
+          "ar_title": "سجل الاستهلاك",
+          "nav_link": "/consumption_history",
+          "show_new_banner": false
+        },
+        {
+          "image_url": "https://example.com/images/prepaid_to_postpaid.png",
+          "en_title": "Prepaid to Postpaid",
+          "ar_title": "من مسبق الدفع إلى آجل الدفع",
+          "nav_link": "/prepaid_to_postpaid",
+          "show_new_banner": true
+        },
+        {
+          "image_url": "https://example.com/images/postpaid_to_prepaid.png",
+          "en_title": "Postpaid to Prepaid",
+          "ar_title": "من آجل الدفع إلى مسبق الدفع",
+          "nav_link": "/postpaid_to_prepaid",
+          "show_new_banner": true
+        }
+      ]
+    },
+    {
+      "order_id": 3,
+      "en_title": "Premise Management",
+      "ar_title": "Premise Management",
+      "items": [
+        {
+          "image_url": "https://example.com/images/my_premises.png",
+          "en_title": "My Premises",
+          "ar_title": "عقاراتي",
+          "nav_link": "/my_premises",
+          "show_new_banner": false
+        },
+        {
+          "image_url": "https://example.com/images/move_in.png",
+          "en_title": "Move In",
+          "ar_title": "انتقال إلى العقار",
+          "nav_link": "/move_in",
+          "show_new_banner": false
+        },
+        {
+          "image_url": "https://example.com/images/move_out.png",
+          "en_title": "Move Out",
+          "ar_title": "الخروج من العقار",
+          "nav_link": "/move_out",
+          "show_new_banner": false
+        },
+        {
+          "image_url": "https://example.com/images/change_premise_type.png",
+          "en_title": "Change Premise Type",
+          "ar_title": "تغيير نوع العقار",
+          "nav_link": "/change_premise_type",
+          "show_new_banner": false
+        },
+        {
+          "image_url": "https://example.com/images/ownership_change.png",
+          "en_title": "Ownership Change",
+          "ar_title": "تغيير الملكية",
+          "nav_link": "/ownership_change",
+          "show_new_banner": false
+        }
+      ]
+    },
+    {
+      "order_id": 4,
+      "en_title": "Request & Other Services",
+      "ar_title": "Request & Other Services",
+      "items": [
+        {
+          "image_url": "https://example.com/images/request_refund.png",
+          "en_title": "Request Refund",
+          "ar_title": "طلب استرداد",
+          "nav_link": "/request_refund",
+          "show_new_banner": false
+        },
+        {
+          "image_url": "https://example.com/images/service_tracking.png",
+          "en_title": "Service Tracking",
+          "ar_title": "تتبع الخدمة",
+          "nav_link": "/service_tracking",
+          "show_new_banner": false
+        },
+        {
+          "image_url": "https://example.com/images/service_removal.png",
+          "en_title": "Service Removal",
+          "ar_title": "إزالة الخدمة",
+          "nav_link": "/service_removal",
+          "show_new_banner": false
+        },
+        {
+          "image_url": "https://example.com/images/certificate_request.png",
+          "en_title": "Certificate Request",
+          "ar_title": "طلب شهادة",
+          "nav_link": "/certificate_request",
+          "show_new_banner": false
+        },
+        {
+          "image_url": "https://example.com/images/complaints.png",
+          "en_title": "Complaints",
+          "ar_title": "الشكاوى",
+          "nav_link": "/complaints",
+          "show_new_banner": false
+        },
+        {
+          "image_url": "https://example.com/images/life_support.png",
+          "en_title": "Life Support",
+          "ar_title": "دعم الحياة",
+          "nav_link": "/life_support",
+          "show_new_banner": false
+        },
+        {
+          "image_url": "https://example.com/images/enable_water_connection.png",
+          "en_title": "Enable Water Connection",
+          "ar_title": "تفعيل توصيل المياه",
+          "nav_link": "/enable_water_connection",
+          "show_new_banner": false
+        },
+        {
+          "image_url": "https://example.com/images/meter_reading.png",
+          "en_title": "Meter Reading",
+          "ar_title": "قراءة العداد",
+          "nav_link": "/meter_reading",
+          "show_new_banner": false
+        },
+        {
+          "image_url": "https://example.com/images/owner_exemption.png",
+          "en_title": "Owner Exemption",
+          "ar_title": "إعفاء المالك",
+          "nav_link": "/owner_exemption",
+          "show_new_banner": false
+        },
+        {
+          "image_url": "https://example.com/images/sales_marketing.png",
+          "en_title": "Sales & Marketing",
+          "ar_title": "المبيعات والتسويق",
+          "nav_link": "/sales_marketing",
+          "show_new_banner": false
+        }
+      ]
+    }
+  ]
 }
