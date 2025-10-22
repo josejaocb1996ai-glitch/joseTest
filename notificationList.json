@@ -1,0 +1,102 @@
+ [
+      {
+        "id": 1,
+        "type": "success",
+        "titleEn": "Payment Successful",
+        "titleAr": "تم الدفع بنجاح",
+        "descriptionEn": "Your electricity bill for October has been paid successfully.",
+        "descriptionAr": "تم سداد فاتورة الكهرباء الخاصة بك لشهر أكتوبر بنجاح.",
+        "createdDate": "2025-10-22T09:15:00Z",
+        "viewedDate": "2025-10-22T10:00:00Z"
+      },
+      {
+        "id": 2,
+        "type": "info",
+        "titleEn": "New Service Request",
+        "titleAr": "طلب خدمة جديد",
+        "descriptionEn": "A new water connection request has been received.",
+        "descriptionAr": "تم استلام طلب توصيل مياه جديد.",
+        "createdDate": "2025-10-21T14:25:00Z",
+        "viewedDate": null
+      },
+      {
+        "id": 3,
+        "type": "alert",
+        "titleEn": "Scheduled Maintenance",
+        "titleAr": "صيانة مجدولة",
+        "descriptionEn": "Scheduled maintenance will occur on October 25 from 2 AM to 5 AM.",
+        "descriptionAr": "ستجرى صيانة مجدولة في 25 أكتوبر من الساعة 2 صباحًا حتى 5 صباحًا.",
+        "createdDate": "2025-10-20T06:45:00Z",
+        "viewedDate": "2025-10-20T08:10:00Z"
+      },
+      {
+        "id": 4,
+        "type": "warning",
+        "titleEn": "Low Balance Alert",
+        "titleAr": "تنبيه الرصيد المنخفض",
+        "descriptionEn": "Your prepaid account balance is running low. Please recharge soon.",
+        "descriptionAr": "رصيد حسابك المدفوع مقدمًا منخفض. يرجى إعادة الشحن قريبًا.",
+        "createdDate": "2025-10-19T12:10:00Z",
+        "viewedDate": null
+      },
+      {
+        "id": 5,
+        "type": "info",
+        "titleEn": "Profile Updated",
+        "titleAr": "تم تحديث الملف الشخصي",
+        "descriptionEn": "Your contact information has been updated successfully.",
+        "descriptionAr": "تم تحديث معلومات الاتصال الخاصة بك بنجاح.",
+        "createdDate": "2025-10-18T17:00:00Z",
+        "viewedDate": "2025-10-18T17:20:00Z"
+      },
+      {
+        "id": 6,
+        "type": "alert",
+        "titleEn": "Service Interruption Notice",
+        "titleAr": "إشعار بانقطاع الخدمة",
+        "descriptionEn": "Water supply will be temporarily unavailable due to maintenance.",
+        "descriptionAr": "سيتم إيقاف إمدادات المياه مؤقتًا بسبب أعمال الصيانة.",
+        "createdDate": "2025-10-17T08:30:00Z",
+        "viewedDate": null
+      },
+      {
+        "id": 7,
+        "type": "success",
+        "titleEn": "Account Verified",
+        "titleAr": "تم التحقق من الحساب",
+        "descriptionEn": "Your account verification has been completed successfully.",
+        "descriptionAr": "تم إكمال التحقق من حسابك بنجاح.",
+        "createdDate": "2025-10-16T09:50:00Z",
+        "viewedDate": "2025-10-16T10:00:00Z"
+      },
+      {
+        "id": 8,
+        "type": "info",
+        "titleEn": "Survey Invitation",
+        "titleAr": "دعوة للمشاركة في الاستطلاع",
+        "descriptionEn": "Please take a moment to complete our customer satisfaction survey.",
+        "descriptionAr": "يرجى تخصيص لحظة لإكمال استبيان رضا العملاء لدينا.",
+        "createdDate": "2025-10-15T13:40:00Z",
+        "viewedDate": null
+      },
+      {
+        "id": 9,
+        "type": "warning",
+        "titleEn": "Unpaid Bill Reminder",
+        "titleAr": "تذكير بالفاتورة غير المدفوعة",
+        "descriptionEn": "You have an unpaid bill that is due by October 28.",
+        "descriptionAr": "لديك فاتورة غير مدفوعة مستحقة في 28 أكتوبر.",
+        "createdDate": "2025-10-14T11:15:00Z",
+        "viewedDate": null
+      },
+      {
+        "id": 10,
+        "type": "success",
+        "titleEn": "Feedback Received",
+        "titleAr": "تم استلام الملاحظات",
+        "descriptionEn": "Thank you for your valuable feedback. We appreciate your input.",
+        "descriptionAr": "شكرًا لك على ملاحظاتك القيمة. نحن نقدر مشاركتك.",
+        "createdDate": "2025-10-13T07:20:00Z",
+        "viewedDate": "2025-10-13T08:05:00Z"
+      }
+    ]
